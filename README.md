@@ -18,8 +18,6 @@ End-to-end systematic trading strategy covering:
 - 3-year backtest of 50/200-day MA crossover on SPY, QQQ, GLD
 - Full performance tearsheet: Sharpe, drawdown, transaction costs
 - Multi-asset comparison across SPY, QQQ, GLD
-- Portfolio correlation analysis across 6 asset classes
-- Options payoff diagram with breakeven analysis
 
 ### Key results
 
