@@ -11,7 +11,6 @@ from market data analysis to backtesting trading strategies.
 
 **File:** showcase_ma_strategy.ipynb
 
-**nbviewer:** https://nbviewer.org/github/hhlh27/finance-portfolio/blob/main/showcase_ma_strategy.ipynb
 
 ### What it does
 End-to-end systematic trading strategy covering:
@@ -19,8 +18,6 @@ End-to-end systematic trading strategy covering:
 - 3-year backtest of 50/200-day MA crossover on SPY, QQQ, GLD
 - Full performance tearsheet: Sharpe, drawdown, transaction costs
 - Multi-asset comparison across SPY, QQQ, GLD
-- Portfolio correlation analysis across 6 asset classes
-- Options payoff diagram with breakeven analysis
 
 ### Key results
 
